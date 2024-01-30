@@ -23,6 +23,7 @@ class MainActivity : AppCompatActivity(), WordAdapter.ItemCLickListenr {
                 startActivity(it)
             }
         }
+        test..
     }
 
     private fun initRecyclerView() {
